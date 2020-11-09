@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Bateau {
 
-    private BateauType type;
+    private BateauType ;
     private List<PositionBateau> position = new ArrayList<>();
     private String etatBateau = "OK";
     public static boolean touche;
