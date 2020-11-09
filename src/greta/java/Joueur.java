@@ -1,4 +1,4 @@
-package fr.greta.java.bataillenavale;
+package greta.java;
 
 import java.util.Scanner;
 

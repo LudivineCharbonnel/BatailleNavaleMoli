@@ -1,4 +1,4 @@
-package fr.greta.java.bataillenavale;
+package greta.java;
 
 public class PlacerBateauException extends Exception {
 
